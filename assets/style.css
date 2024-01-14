@@ -1,0 +1,21 @@
+.container {
+    width: 480px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.item-thumbnail {
+    width: 90px;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* .thumb-img {} */
+
+.item-mainvisual {
+    width: 380px;
+}
